@@ -5,7 +5,7 @@
   "author": "wadakenji",
   "license": "MIT",
   "scripts": {
-    "dev": "next",
+    "dev": "next app",
     "build": "next build app",
     "start": "next start",
     "serve": "firebase serve",
